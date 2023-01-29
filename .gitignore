@@ -8,3 +8,4 @@ w1_commands.txt
 google-cloud-sdk/
 .history/
 .terraform*
+green_tripdata_2019-01.csv.gz

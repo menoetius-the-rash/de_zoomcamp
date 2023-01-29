@@ -9,7 +9,7 @@ services:
       - POSTGRES_DB=ny_taxi
     volumes:
       - type: bind
-        source: /home/menoetius/Documents/DE_zoomcamp/Week_1/ny_taxi_postgres_data
+        source: /home/menoetius/de_zoomcamp/Week_1/ny_taxi_postgres_data
         target: /var/lib/postgresql/data
     ports:
       - "5432:5432"
