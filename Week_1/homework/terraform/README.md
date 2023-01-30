@@ -1,4 +1,4 @@
-# Homework 2 - Terraform
+# Homework 1 Part B - Terraform
 
 ## Input
 ```
